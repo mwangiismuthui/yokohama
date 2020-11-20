@@ -4,7 +4,7 @@
 <head>
 
 	<!-- Your Basic Site Informations -->
-	<title>Condor Oriental</title>
+	<title>Yokohama</title>
 	<meta http-equiv="content-type" content="text/html;charset=utf-8" />
     
     
@@ -81,7 +81,7 @@
     
     <footer class="footer-copyright">
     	<div class="container">
-        	<p>© Copyright 2020 condororiental.com. All rights reserved.</p> <!-- copyright text -->
+        	<p>© Copyright 2020 Yokohama.si All rights reserved.</p> <!-- copyright text -->
 		</div> <!-- End container -->
 	</footer> <!-- End footer-copyright -->
     

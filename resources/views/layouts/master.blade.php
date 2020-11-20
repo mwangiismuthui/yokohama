@@ -5,7 +5,7 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>Condororiental</title>
+  <title>Yokohama</title>
    <!-- CSRF Token -->
   <meta name="csrf-token" content="{{ csrf_token() }}">
   <link rel="stylesheet" href="{{asset('css/app.css')}}">
@@ -23,7 +23,7 @@
       <!-- mini logo for sidebar mini 50x50 pixels -->
       <span class="logo-mini"><b>S</b>NO</span>
       <!-- logo for regular state and mobile devices -->
-      <span class="logo-lg"><b>Condororiental</b></span>
+      <span class="logo-lg"><b>Yokohama</b></span>
     </a>
 
     <!-- Header Navbar -->
