@@ -62,4 +62,9 @@ View::composer(['*'], function($view){
 
 });
 });
+Route::get('/clear-cache', function () {
+    $exitCode = Artisan::call('config:cache');
+    return 'Success';
+    // return what you want
+});
 
