@@ -80,7 +80,7 @@
         	<div class="container">
             
                 <h1><span>Yokohama </span></h1>
-                <h2>Your ultimate shipping partner</h2>
+                {{-- <h2>Your ultimate shipping partner</h2> --}}
           
                 <div class="data-status"></div> <!-- data submit status -->
                 
