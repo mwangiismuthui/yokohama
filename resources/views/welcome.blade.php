@@ -4,7 +4,7 @@
 <head>
 
 	<!-- Your Basic Site Informations -->
-	<title>Condor Oriental</title>
+	<title>Yokohama</title>
 	<meta http-equiv="content-type" content="text/html;charset=utf-8" />
    
     
@@ -79,8 +79,8 @@
     	<div class="slider-overlay">
         	<div class="container">
             
-                <h1><span>Condor Oriental S. A. </span></h1>
-                <h2>Innovation and investment monitoring</h2>
+                <h1><span>Yokohama </span></h1>
+                <h2>Your ultimate shipping partner</h2>
           
                 <div class="data-status"></div> <!-- data submit status -->
                 
@@ -102,9 +102,9 @@
                             	<div class="number">1</div>
 							</div>
                             <div class="content">
-                            	<h4>RESEARCH</h4>
-                                <img src="/theme/images/img.jpg" alt="Image">
-                                <p>Condor Oriental S. A. is the only partner you need to bring your business up to date and to shield it for the future against all risks and competition, our team of researchers will adequately combine the advantages on hand today to the benefits of your enterprise,  and will suppress and overcome the disadvantages that you are experiencing</p>
+                            	<h4>Shipping</h4>
+                                <img src="/theme/images/8.jpg" alt="Image">
+                                <p>We carry all Logistics operations to make it possible for your product to reach you from the place where the raw materials are obtained, passing through the place of their production and storage through repackaging, shipping and transport directly to your desired destination</p>
 							</div>
 						</div>
 					</div>
@@ -117,9 +117,9 @@
                             	<div class="number">2</div>
 							</div>
                             <div class="content">
-                            	<h4>CONSULTATION</h4>
-                                <img src="/theme/images/img3.jpg" alt="Image">
-                                <p>Depends of your needs, we find a strategy that can become a valuable result in the future. Get in touch with us and find new ideas for your business to grow and prosper.
+                            	<h4>Finance</h4>
+                                <img src="/theme/images/7.jpg" alt="Image">
+                                <p>We provide capital or financial engineering to obtain funds, to finance an economically independent investment project, designed in such that the debt service is reimbursed exclusively with the cash flow of the project while providing an acceptable rate of return to investor’s capital.
                                   <br>
                                   <br>
                                   <br>
@@ -137,9 +137,9 @@
                             	<div class="number">3</div>
 							</div>
                             <div class="content">
-                            	<h4>SOLUTIONS</h4>
-                                <img src="/theme/images/img2.jpg" alt="Image">
-                                <p>We will assist you on logistics, Shipping, storage, networks, security, software, surveillance, mobility, management, taxation, auditing, banking, investments.
+                            	<h4>Commodities</h4>
+                                <img src="/theme/images/6.jpg" alt="Image">
+                                <p>All raw materials in general, wheat, rice, soya, ore, sugar, oil etc.,  and semi-finished products such copper, cellulose, chicken and beef etc
 
                                   <br>
                                   <br>
@@ -154,30 +154,7 @@
                 
 		</div> <!-- End container -->
 	</div> <!-- End landing-wrap -->
-    <section id="verify">
-        
-    	<div class="container">
-            <h4><span>Verify Serial Number </h4>
-
-            <div class="header-border">
-                
-             <span id="form_result"></span>
-            </div>
-              <form  id="verify_form">
-                {{ csrf_field() }}
-                
-                <div class="card-body">
-                    <div class="form-group">
-                        <input type="text" id="serialnumber" name="serialnumber" class="form-control" placeholder="Enter Serial Number"
-                               required="required"/>
-                    </div>
-                    <button type="submit" class="btn btn-success">Confirm</button>
-                </div>
-                                      
-              </form>
-        </div> <!-- End container -->
-    </section> <!-- End contact -->
-    
+  
             
     	<div class="container">
         <section id="about_us">
@@ -190,7 +167,25 @@
             <div class="span12"> <!-- 1 -->
                 <div class="widget">
                     <div class="dotstheme_feature" style="text-align: justify; color:black;">
-                          <p>A group of professionals with over 200 years’ combined experience in various sectors, mastering of investments, taxation, trading, logistics, outsourcing, research and development, impex; TSM technical surveillance measures, face recognition, bugging devices, tracking security software development. TSCM technical surveillance COUNTER measures. </p>
+                        <h3>Shipping</h3>
+                        <p>We carry all Logistics operations to make it possible for your product to reach you from the place where the raw materials are obtained, passing through the place of their production and storage through repackaging, shipping and transport directly to your desired destination</p>
+                        <ul>
+                            <li>Order Processing: Everything related to purchase orders.</li>
+                            <li>Material handling: It encompasses all material means to move the products in warehouses and between warehouses and retailers</li>
+                            <li>Packaging: Aiming for the protection and preservation of the products.</li>
+                            <li>Transport of the goods: Determines the method to transport the product (truck, train, boat, air cargo, etc.) and the planning of routes that provide the lowest cost</li>
+                            <li>Storage: Product location, dimension and climate-controlled warehouse characteristics and security</li>
+                            <li>Stock control: Product stock control that the client must have available for sale and distribution</li>
+                            <li>Customer Service: It includes the se0072vices and means necessary for the client to purchase the and develop the product from Research and development till the hands of the final customer</li>
+                        
+                        </ul>
+                        <h3>Finance </h3>
+                        <p>We provide capital or financial engineering to obtain funds, to finance an economically independent investment project, designed in such that the debt service is reimbursed exclusively with the cash flow of the project while providing an acceptable rate of return to investor’s capital, it is important to clarify that we do invest or raise funds to finance a project that is not profitable and, or provide an acceptable rate of return. This possibility is based on both the capacity of the project to generate cash flows that can meet the repayment of loans as in contracts between various stakeholders that ensure the profitability of the project.</p>
+                    
+                        <h3>Commodities </h3>
+                        <p>All raw materials in general, wheat, rice, soya, ore, sugar, oil etc.,  and semi-finished products such copper, cellulose, chicken and beef etc</p>
+                    
+                     
                     </div>
                     </div>
                 </div>
@@ -199,7 +194,31 @@
                 </div> <!-- End row-fluid -->
           
 		</section> 
-    	</div>
+        </div>
+        <section id="verify">
+        
+            <div class="container">
+                <h4><span>Verify Serial Number </h4>
+    
+                <div class="header-border">
+                    
+                 <span id="form_result"></span>
+                </div>
+                  <form  id="verify_form">
+                    {{ csrf_field() }}
+                    
+                    <div class="card-body">
+                        <div class="form-group">
+                            <input type="text" id="serialnumber" name="serialnumber" class="form-control" placeholder="Enter Serial Number"
+                                   required="required"/>
+                        </div>
+                        <button type="submit" class="btn btn-success">Confirm</button>
+                    </div>
+                                          
+                  </form>
+            </div> <!-- End container -->
+        </section> <!-- End contact -->
+        
     <section id="contact">
         
     	<div class="container">
@@ -303,7 +322,7 @@
     
     <footer class="footer-copyright">
     	<div class="container">
-        	<p>© Copyright 2020 condororiental.com. All rights reserved.</p> <!-- copyright text -->
+        	<p>© Copyright 2020 Yokohama All rights reserved.</p> <!-- copyright text -->
 		</div> <!-- End container -->
 	</footer> <!-- End footer-copyright -->
     
