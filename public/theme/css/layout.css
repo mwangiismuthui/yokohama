@@ -357,7 +357,10 @@ select:focus {
 		margin:0px;
 		border-bottom:5px solid #FFF;
 	}
-	#slider h1 span { font-weight:900; }
+	#slider h1 span { 
+		color: #1DBF73;
+		font-weight:900;
+	 }
 	#slider h2 {
 		color:#FFF;
 		font-size:30px;

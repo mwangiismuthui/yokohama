@@ -103,7 +103,7 @@
 							</div>
                             <div class="content">
                             	<h4>Shipping</h4>
-                                <img src="/theme/images/8.jpg" alt="Image">
+                                <img src="/theme/images/8.jpg" alt="Image" style="width:100% !important;height:200px;!important">
                                 <p>We carry all Logistics operations to make it possible for your product to reach you from the place where the raw materials are obtained, passing through the place of their production and storage through repackaging, shipping and transport directly to your desired destination</p>
 							</div>
 						</div>
@@ -118,7 +118,7 @@
 							</div>
                             <div class="content">
                             	<h4>Finance</h4>
-                                <img src="/theme/images/7.jpg" alt="Image">
+                                <img src="/theme/images/7.jpg" alt="Image" style="width:100% !important;height:200px;!important">
                                 <p>We provide capital or financial engineering to obtain funds, to finance an economically independent investment project, designed in such that the debt service is reimbursed exclusively with the cash flow of the project while providing an acceptable rate of return to investor’s capital.
                                   <br>
                                   <br>
@@ -138,7 +138,7 @@
 							</div>
                             <div class="content">
                             	<h4>Commodities</h4>
-                                <img src="/theme/images/6.jpg" alt="Image">
+                                <img src="/theme/images/6.jpg" alt="Image" style="width:100% !important;height:200px;!important">
                                 <p>All raw materials in general, wheat, rice, soya, ore, sugar, oil etc.,  and semi-finished products such copper, cellulose, chicken and beef etc
 
                                   <br>
@@ -176,7 +176,7 @@
                             <li>Transport of the goods: Determines the method to transport the product (truck, train, boat, air cargo, etc.) and the planning of routes that provide the lowest cost</li>
                             <li>Storage: Product location, dimension and climate-controlled warehouse characteristics and security</li>
                             <li>Stock control: Product stock control that the client must have available for sale and distribution</li>
-                            <li>Customer Service: It includes the se0072vices and means necessary for the client to purchase the and develop the product from Research and development till the hands of the final customer</li>
+                            <li>Customer Service: It includes the services and means necessary for the client to purchase the and develop the product from Research and development till the hands of the final customer</li>
                         
                         </ul>
                         <h3>Finance </h3>
@@ -228,7 +228,7 @@
 
                  <span>21 /F , FUTURA PLAZA, 111 HOW MING STREET</span> <br>
                 <span><i class="icon-map-marker"></i> &nbsp; KWUN TONG, KOWLOON, HONG KONG </span> <br>
-                <span ><i class="icon-envelope"></i>&nbsp; info@condororiental.com</span><br>
+                <span ><i class="icon-envelope"></i>&nbsp; info@yokohama.si</span><br>
                 <span><i class="icon-phone"></i>&nbsp; +852 58 03 66 48 </span>
                 </div>
          
@@ -322,7 +322,7 @@
     
     <footer class="footer-copyright">
     	<div class="container">
-        	<p>© Copyright 2020 Yokohama All rights reserved.</p> <!-- copyright text -->
+        	<p>© Copyright 2021 Yokohama All rights reserved.</p> <!-- copyright text -->
 		</div> <!-- End container -->
 	</footer> <!-- End footer-copyright -->
     
