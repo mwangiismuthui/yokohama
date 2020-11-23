@@ -50,7 +50,7 @@
             
             	<div class="logo">
                 	<a href="#">
-                    	<img src="/theme/images/logo.png" alt="Condor Oriental S. A" style="border-radius: 50%;width:100px;height:100px;" /> <!-- site logo -->
+                    	<img src="/theme/images/logo.png" alt="Condor Oriental S. A" style="border-radius: 30%;width:100px;height:100px;" /> <!-- site logo -->
 					</a>
                 </div>
                 
