@@ -128,7 +128,7 @@
       var modal = $(this)
 
       modal.find('.modal-body #title').val(title);
-      modal.find('.modal-body #des').val(description);
+      modal.find('.modal-body #desc').val(description);
       modal.find('.modal-body #cat_id').val(cat_id);
 })
 
