@@ -5,13 +5,13 @@ namespace App\Http\Controllers;
 use App\SerialNumber;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Redirect;
-use Response;
+use Illuminate\Support\Facades\Response;
 use Illuminate\Support\Facades\Hash;
 use App\User;
 use App\Gallery;
 use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Facades\Mail;
-use Validator;
+use Illuminate\Support\Facades\Validator;
 
 class HomeController extends Controller
 {
