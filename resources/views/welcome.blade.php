@@ -324,7 +324,7 @@
     
     <footer class="footer-copyright">
     	<div class="container">
-        	<p>© Copyright 2021 Yokohama All rights reserved.</p> <!-- copyright text -->
+        	<p> Copyright &copy; {{ date('Y') }} Yokohama All rights reserved.</p> <!-- copyright text -->
 		</div> <!-- End container -->
 	</footer> <!-- End footer-copyright -->
     
