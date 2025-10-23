@@ -205,6 +205,7 @@
                  <span id="form_result"></span>
                 </div>
                   <form  id="verify_form">
+                    @honeypot
                     {{ csrf_field() }}
                     
                     <div class="card-body">
@@ -241,6 +242,7 @@
                          <form id="sendEmail" method="post">
                 
                 {{ csrf_field() }}
+                @honeypot
             	<div class="row">
                 	<div class="col-md-6">
                         <input type="text" name="fname" maxlength="80" placeholder="First Name">
